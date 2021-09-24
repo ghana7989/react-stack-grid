@@ -86,7 +86,7 @@
     "react-dom": ">=15.3.0"
   },
   "dependencies": {
-    "easy-css-transform-builder": "^0.0.2",
+    "easy-css-transform-builder": "^0.1.0",
     "exenv": "^1.2.1",
     "imagesloaded": "^4.1.1",
     "inline-style-prefixer": "^3.0.6",
