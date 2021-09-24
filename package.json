@@ -91,7 +91,7 @@
     "imagesloaded": "^4.1.1",
     "inline-style-prefixer": "^3.0.6",
     "invariant": "^2.2.2",
-    "prop-types": "^15.5.10",
+    "prop-types": "^15.7.2",
     "react-sizeme": "^2.2.0",
     "react-transition-group": "^1.2.0",
     "shallowequal": "^1.0.1"
