@@ -88,7 +88,7 @@
   "dependencies": {
     "easy-css-transform-builder": "^0.0.2",
     "exenv": "^1.2.1",
-    "imagesloaded": "^4.1.1",
+    "imagesloaded": "^4.1.4",
     "inline-style-prefixer": "^3.0.6",
     "invariant": "^2.2.2",
     "prop-types": "^15.5.10",
