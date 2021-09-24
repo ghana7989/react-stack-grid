@@ -90,7 +90,7 @@
     "exenv": "^1.2.1",
     "imagesloaded": "^4.1.1",
     "inline-style-prefixer": "^3.0.6",
-    "invariant": "^2.2.2",
+    "invariant": "^2.2.4",
     "prop-types": "^15.5.10",
     "react-sizeme": "^2.2.0",
     "react-transition-group": "^1.2.0",
